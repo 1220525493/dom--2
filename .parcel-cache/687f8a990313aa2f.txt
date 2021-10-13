@@ -1,0 +1,9 @@
+8
+41C:\Users\Administrator\Desktop\dom-2\dist132785901078615397 1
+40C:\Users\Administrator\Desktop\dom-2\src132785899119513013 1
+52C:\Users\Administrator\Desktop\dom-2\dist\index.html132785901078585481 0
+47C:\Users\Administrator\Desktop\dom-2\src\dom.js132785902230434455 0
+51C:\Users\Administrator\Desktop\dom-2\src\index.html132785899202418899 0
+63C:\Users\Administrator\Desktop\dom-2\dist\dom-2.94e89cdd.js.map132785901078605429 0
+59C:\Users\Administrator\Desktop\dom-2\dist\dom-2.94e89cdd.js132785901078585481 0
+48C:\Users\Administrator\Desktop\dom-2\src\main.js132785900360520766 0
